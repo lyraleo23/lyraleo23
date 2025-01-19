@@ -2,7 +2,8 @@
 
 ## Sobre mim
 
-👨‍💻 Sou Leonardo, um desenvolvedor apaixonado por tecnologia, com foco em **ERP** e desenvolvimento de software. Tenho experiência em sistemas como **NetSuite**, incluindo automações avançadas via **SuiteScript**, e gosto de trabalhar em projetos que otimizam processos empresariais por meio da tecnologia.
+👨‍💻 Sou Leonardo, um desenvolvedor apaixonado por tecnologia, com forte experiência em **Python** e **JavaScript**. Tenho um foco especial em **Python** para automação de processos e desenvolvimento de soluções eficientes. Além disso, tenho experiência em **NetSuite**, incluindo automações avançadas via **SuiteScript**, e gosto de trabalhar em projetos que otimizam processos e criam soluções inovadoras utilizando a tecnologia.
+
 
 🎓 **Formação Acadêmica**
 
